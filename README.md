@@ -11,6 +11,8 @@ Compilez et executez le programme avec :
 
 k_{n+1}
 
+$\alpha A$
+
 ```
 $ make 
 $ make run
