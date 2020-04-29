@@ -9,7 +9,7 @@ L 2 : (c 15, c 14 , . . . , c 1 , c 0 ) = (0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1
 
 Compilez et executez le programme avec :
 
-$k_{n+1}$
+k_{n+1}
 
 ```
 $ make 
